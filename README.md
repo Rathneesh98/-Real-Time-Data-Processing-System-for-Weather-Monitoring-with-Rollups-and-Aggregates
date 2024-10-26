@@ -61,12 +61,10 @@ This project is a **Real-Time Weather Monitoring System** that fetches weather d
    ```bash
    git clone https://github.com/Rathneesh98/-Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
 
-   cd flask-rule-engine
-
-
+   
  **Navigate to the project folder**:
    ```bash
-   cd Real-Time-Weather-App
+   cd Weather-Monitoring-with-Rollups-and-Aggregates
    ```
 
 **Install Dependencies**:
